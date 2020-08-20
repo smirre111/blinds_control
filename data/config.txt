@@ -1,0 +1,5 @@
+{
+  "hostname": "examples.com",
+  "address": 17,
+  "subnet": 1
+}
