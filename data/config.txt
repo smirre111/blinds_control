@@ -1,5 +1,6 @@
 {
-  "hostname": "examples.com",
+  "hostname": "blind1",
   "address": 17,
-  "subnet": 1
+  "subnet": 1,
+  "motorRuntime": 12000
 }
